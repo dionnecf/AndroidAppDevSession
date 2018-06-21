@@ -1,6 +1,14 @@
 <resources>
     <string name="app_name">Cookie Clicker</string>
     <string name="content_desc">Cookie Picture</string>
-    <string name="counter_value">Collect 30 cookie points on the click counter</string>
+    <string name="counter_value">Collect 30 cookie points on the cookie counter</string>
     <string name="congratulations">"Congratulations You earned 30 cookie points... Click to restart!"</string>
+    <string name="resetBtnTxt">Reset Game</string>
+    <string name="statusCheckTxt1">Click the Cookie</string>
+    <string name="statusCheckTxt2">Keep clicking!</string>
+    <string name="statusCheckTxt3">Do not stop clicking!</string>
+    <string name="statusCheckTxt4">You are almost there!</string>
+    <string name="statusCheckTxt5">Well done!</string>
+    <string name="total_points_text">Total Points Since Game Reset: %d </string>
+    <string name="total_rounds_text">Total No. Of Rounds Since  Game Reset: %d </string>
 </resources>
